@@ -1,8 +1,35 @@
 # Ideometrics
 
-**Ideometrics** is the science of generating, evaluating and prioritising ideas.
+> **The science of generating, evaluating, and prioritising ideas**
 
-We aim to develop a rigorous, reproducible approach to answering a simple but fundamental question:
+---
 
-> *Given a set of ideas addressing a problem, how do we identify which ones matter most?*
+## Overview
 
+**Ideometrics** is a framework for studying how ideas can be systematically generated, evaluated, and compared.
+
+It develops reproducible methods for addressing a central question:
+
+> *Given a set of ideas addressing a problem, how can we determine which ones are most valuable?*
+
+---
+
+## Approach
+
+Ideometrics combines:
+
+- structured idea generation
+- expert and model-based evaluation
+- quantitative analysis of idea quality and relationships
+
+to study how idea spaces can be measured, mapped, and ranked across domains.
+
+---
+
+## Goal
+
+To establish a general, transparent methodology for idea evaluation that is:
+
+- **reproducible**
+- **domain-agnostic**
+- **scalable across science, policy, government and industry**
